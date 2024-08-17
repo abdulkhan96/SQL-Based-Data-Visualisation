@@ -5,7 +5,7 @@ This repository contains the SQL queries and related analyses for the COVID-19 A
 
 ## Project Structure
 - [`COVID-19_Analysis.sql`](https://github.com/abdulkhan96/SQL-Based-Data-Visualisation/blob/main/Covid%20SQL%20Project.sql): SQL queries used for data analysis.
-- `README.md`: This file with project details.
+- [`README.md`](https://github.com/abdulkhan96/SQL-Based-Data-Visualisation/blob/main/README.md): This file with project details.
 
 ## Data Sources
 - **COVID-19 Deaths Data**: Includes columns such as ISO code, location, continent, total deaths, new deaths, etc.
@@ -18,5 +18,4 @@ This project includes a collection of SQL queries used for analyzing COVID-19 da
 - Vaccination rate trends
 
 ## Results
-The project provides a comprehensive analysis of COVID-19 data, revealing insights into the impact of the pandemic.
-
+Overall, these findings underscore the complexity of the pandemic’s impact, illustrating the varied responses and outcomes across different regions. The data emphasizes the importance of continued monitoring and analysis to guide effective pandemic management and response strategies.
