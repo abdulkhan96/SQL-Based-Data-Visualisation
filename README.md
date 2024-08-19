@@ -3,6 +3,10 @@
 ## Description
 This repository contains the SQL queries and related analyses for the [COVID-19 Analytics project](https://medium.com/@abdul.khan96/covid-19-analytics-leveraging-sql-and-power-bi-for-data-driven-insights-part-1-23eb99c38156). The project uses SQL to derive actionable insights from COVID-19 data, focusing on case trends, vaccination rates, and mortality rates. This project leverages SQL for data extraction and Power BI for visualization to analyze COVID-19 data. The focus is on uncovering trends in infection rates, vaccination progress, and mortality across regions. Inspired by a project by Alex the Analyst, this analysis employs unique SQL queries and visualizations, demonstrating how different techniques can reveal critical insights.
 
+## Following are the parts of the project:
+- Part 1: SQL Analysis - [View SQL Queries and Analysis](https://medium.com/@abdul.khan96/covid-19-analytics-leveraging-sql-and-power-bi-for-data-driven-insights-part-1-23eb99c38156)
+- Part 2: Power BI Visualizations - [View Visualizations](https://medium.com/@abdul.khan96/covid-19-analytics-leveraging-sql-and-power-bi-for-data-driven-insights-part-2-1c017b9ab9b8)
+
 ## Project Structure
 - [`COVID-19_Analysis.sql`](https://github.com/abdulkhan96/SQL-Based-Data-Visualisation/blob/main/Covid%20SQL%20Project.sql): SQL queries used for data analysis.
 - [`README.md`](https://github.com/abdulkhan96/SQL-Based-Data-Visualisation/blob/main/README.md): This file with project details.
