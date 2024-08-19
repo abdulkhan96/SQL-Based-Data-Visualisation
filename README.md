@@ -1,7 +1,7 @@
 # COVID-19 Analytics: Leveraging SQL and Power BI for Data-Driven Insights
 
 ## Description
-This repository contains the SQL queries and related analyses for the [COVID-19 Analytics project](https://medium.com/@abdul.khan96/covid-19-analytics-leveraging-sql-and-power-bi-for-data-driven-insights-part-1-23eb99c38156). The project uses SQL to derive actionable insights from COVID-19 data, focusing on case trends, vaccination rates, and mortality rates. This project leverages SQL for data extraction and Power BI for visualization to analyze COVID-19 data. The focus is on uncovering trends in infection rates, vaccination progress, and mortality across regions. Inspired by a project by Alex the Analyst, this analysis employs unique SQL queries and visualizations, demonstrating how different techniques can reveal critical insights.
+This repository contains the SQL queries and related analyses for the COVID-19 Analytics project. The project uses SQL to derive actionable insights from COVID-19 data, focusing on case trends, vaccination rates, and mortality rates. This project leverages SQL for data extraction and Power BI for visualization to analyze COVID-19 data. The focus is on uncovering trends in infection rates, vaccination progress, and mortality across regions. Inspired by a project by Alex the Analyst, this analysis employs unique SQL queries and visualizations, demonstrating how different techniques can reveal critical insights.
 
 ## Following are the parts of the project:
 - Part 1: SQL Analysis - [View SQL Queries and Analysis](https://medium.com/@abdul.khan96/covid-19-analytics-leveraging-sql-and-power-bi-for-data-driven-insights-part-1-23eb99c38156)
