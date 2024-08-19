@@ -22,4 +22,6 @@ This project includes a collection of SQL queries used for analyzing COVID-19 da
 - Vaccination rate trends
 
 ## Results
-Overall, these findings underscore the complexity of the pandemic’s impact, illustrating the varied responses and outcomes across different regions. The data emphasizes the importance of continued monitoring and analysis to guide effective pandemic management and response strategies.
+This project has provided a detailed exploration of COVID-19 data through SQL queries and Power BI visualizations. By leveraging key metrics such as infection rates, death counts, and vaccination trends, we’ve been able to create a comprehensive dashboard that offers valuable insights into the global impact of the pandemic.
+
+Through the visualizations, we’ve highlighted critical trends across different continents and countries, helping to better understand the dynamics of the pandemic. The use of tooltips and dynamic charts further enhances the interactivity and depth of the analysis, making it easier for users to gain meaningful insights.
